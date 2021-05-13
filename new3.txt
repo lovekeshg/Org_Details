@@ -1,2 +1,2 @@
 this file is for master branch
-this file has different content
+this file is common between Initial_Merge and automation branch, this line is different for Initial_Merge and automation branch
